@@ -13,7 +13,6 @@ import com.ibm.streams.operator.StreamSchema;
 import com.ibm.streamsx.topology.TStream;
 import com.ibm.streamsx.topology.inet.RestServer;
 import com.ibm.streamsx.topology.json.JSONStreams;
-import com.ibm.streamsx.topology.spl.SPLStream;
 import com.ibm.streamsx.topology.tuple.JSONAble;
 
 public class ParkingInfo implements Serializable, JSONAble {
